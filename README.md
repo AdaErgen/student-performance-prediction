@@ -15,7 +15,7 @@ To explore how factors such as study time, absences, and parental education rela
 - matplotlib, seaborn
 - Jupyter Notebook
 
-## 🚀 How to Run:
+## How to Run:
 1. Clone the repository:
    ```bash
    git clone https://github.com/adaergen/student-performance-prediction.git
